@@ -8,7 +8,7 @@ import "./card.css"
 
 function Card({children}){
   return(
-    <div className="card">
+    <div className="cardd">
       {children}
     </div>
   )
