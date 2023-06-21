@@ -1,0 +1,25 @@
+.thumbnail-size{
+    width: 280px;
+    height:150px;
+    border-radius:12px;
+    margin:10px;
+    margin-left:30px;
+}
+.text-style{
+    font-family:"Gill Sans";
+    margin:10px;
+    margin-left:30px;
+    color:antiquewhite
+}
+.channel-style{
+    font-weight:bold;
+    color:grey;
+}
+.title{
+    font-size:25px;
+}
+.container{
+    display:flex;
+    align-items:center;
+
+}
